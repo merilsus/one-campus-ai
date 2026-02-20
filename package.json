@@ -1,0 +1,29 @@
+{
+  "name": "one-campus-ai",
+  "version": "1.0.0",
+  "description": "One Campus AI Extended Description",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merilsus/one-campus-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/merilsus/one-campus-ai/issues"
+  },
+  "homepage": "https://github.com/merilsus/one-campus-ai#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.6.1",
+    "openai": "^6.22.0"
+  }
+}

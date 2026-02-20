@@ -1,0 +1,6 @@
+# Ignore secrets
+.env
+backend/firebase-service.json
+
+# Node modules
+node_modules/
